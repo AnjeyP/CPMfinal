@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "ava": "https://lh3.googleusercontent.com/a-/AAuE7mDXhS5RECyTNXTMdiejpWp_YgAorTUJIFdrZJOD=s70-p-k-rw-no",
+      "name": "Agent",
+      "desc": "Agent info",
+      "resources": [1, 2, 3, 4, 5, 6, 7, 8],
+      "further": [2, 3, 4, 5]
+    },
+    {
+      "id": 2,
+      "ava": "https://lh3.googleusercontent.com/a-/AAuE7mDzSePBY3M7Hmkx4R98wFJ_D9Fv54AdoLFblTsR=s70-p-k-rw-no",
+      "name": "Consultant",
+      "desc": "Consultant info",
+      "resources": [2, 3, 7],
+      "further": [3, 5, 6, 7]
+    },
+    {
+      "id": 3,
+      "ava": "https://lh3.googleusercontent.com/a-/AAuE7mCAxQI-58lJhwuqGGo-8Parncg4QoWDFHNWmL1M=s70-p-k-rw-no",
+      "name": "Mentor",
+      "desc": "Mentor info",
+      "resources": [5, 6, 8],
+      "further": [2, 5, 6, 7]
+    },
+    {
+      "id": 4,
+      "ava": "https://lh3.googleusercontent.com/a-/AAuE7mBNDYMglUpTFooyD9_C5Nhc-wpUYSzlV6gTC0Am=s70-p-k-rw-no",
+      "name": "Proofreader",
+      "desc": "Proofreader info",
+      "resources": [8, 3, 4],
+      "further": [3, 5, 8]
+    },
+    {
+      "id": 5,
+      "ava": "https://lh3.googleusercontent.com/a-/AAuE7mAxU9niCIfGDtunTz-U18SZjZCQiv_9pVxoIBkx=s70-p-k-rw-no",
+      "name": "Sub-Leader",
+      "desc": "Sub-Leader info",
+      "resources": [6, 4, 2],
+      "further": [9]
+    },
+    {
+      "id": 6,
+      "ava": "https://lh3.googleusercontent.com/a-/AAuE7mBQWVmtNql6__bEKsSRIYmGyk7yOEGVTIsmRSug=s70-p-k-rw-no",
+      "name": "Ext-Transfer",
+      "desc": "External Transfer info",
+      "resources": [4, 5, 7],
+      "further": []
+    },
+    {
+      "id": 7,
+      "ava": "https://lh3.googleusercontent.com/a-/AAuE7mBIfNZ8zT-JvOtAWosa1M0QFKdYrAJPhwGIRUOM=s70-p-k-rw-no",
+      "name": "LP-Trainer",
+      "desc": "L&P Trainer info",
+      "resources": [1, 5, 8],
+      "further": []
+    },
+    {
+      "id": 8,
+      "ava": "https://lh3.googleusercontent.com/a-/AAuE7mDy19CR5V8YgvR3Pxovcsq3NAzqT5PsCmEj4ZXV=s70-p-k-rw-no",
+      "name": "CSQA-Agent",
+      "desc": "CSQA Agent info",
+      "resources": [6, 4, 2],
+      "further": []
+    },
+    {
+      "id": 9,
+      "ava": "https://lh3.googleusercontent.com/a-/AAuE7mCfaNYev-ga12zgMZfMbzxPDZunGE3a0nPCH709=s80-p-k-rw-no",
+      "name": "Team-Lead",
+      "desc": "Team Lead info",
+      "resources": [4, 6, 1],
+      "further": []
+    }
+  ]
+}
